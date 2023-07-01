@@ -4,13 +4,13 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharpxk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-210%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-211%20hrs%2057%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Go                       11 hrs 51 mins      ██████████████████████░░░   87.08 % 
+Go                       11 hrs 51 mins      ██████████████████████░░░   87.06 % 
 Stata                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 SSH Config               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
@@ -25,5 +25,5 @@ Windows                  13 hrs 37 mins      ███████████�
 ```
 
 
- Last Updated on 30/06/2023 20:19:15 UTC
+ Last Updated on 01/07/2023 20:18:34 UTC
 <!--END_SECTION:waka-->
