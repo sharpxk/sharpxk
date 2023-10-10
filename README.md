@@ -4,16 +4,16 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharpxk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2022%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-C++                      12 hrs 10 mins      ███████████████████░░░░░░   75.75 % 
+C++                      12 hrs 10 mins      ███████████████████░░░░░░   75.76 % 
 C                        1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 ActionScript 3           1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Java                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Java                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 Objective-C              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
@@ -25,5 +25,5 @@ Windows                  16 hrs 4 mins       ███████████�
 ```
 
 
- Last Updated on 09/10/2023 20:16:54 UTC
+ Last Updated on 10/10/2023 20:15:33 UTC
 <!--END_SECTION:waka-->
