@@ -4,25 +4,25 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharpxk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
 Python                   14 hrs 38 mins      ███████████████████░░░░░░   75.56 % 
-Markdown                 2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Markdown                 2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
 Other                    1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 C++                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  19 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/12/2023 20:19:06 UTC
+ Last Updated on 15/12/2023 20:18:30 UTC
 <!--END_SECTION:waka-->
