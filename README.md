@@ -10,16 +10,15 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 40 mins       █████████████████████████   99.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/01/2024 20:19:11 UTC
+ Last Updated on 24/01/2024 20:19:17 UTC
 <!--END_SECTION:waka-->
