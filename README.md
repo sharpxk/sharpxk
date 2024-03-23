@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharpxk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2045%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -12,7 +12,7 @@
 💬 Programming Languages: 
 Markdown                 5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
 C                        5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.69 % 
-C++                      2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+C++                      2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
 Bash                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 Makefile                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
@@ -22,9 +22,9 @@ VS Code                  18 hrs 36 mins      ███████████�
 💻 Operating System: 
 Linux                    11 hrs              ███████████████░░░░░░░░░░   59.18 % 
 Windows                  6 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   32.69 % 
-WSL                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+WSL                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 ```
 
 
- Last Updated on 22/03/2024 20:16:56 UTC
+ Last Updated on 23/03/2024 20:17:16 UTC
 <!--END_SECTION:waka-->
