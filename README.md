@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sharpxk&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2033%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,5 +25,5 @@ Windows                  19 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 29/03/2024 20:18:26 UTC
+ Last Updated on 30/03/2024 20:16:24 UTC
 <!--END_SECTION:waka-->
