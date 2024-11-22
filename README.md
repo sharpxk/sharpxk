@@ -6,15 +6,15 @@
 
 ```text
 💬 Programming Languages: 
-SSH Config               13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 21/11/2024 20:24:53 UTC
+ Last Updated on 22/11/2024 20:24:59 UTC
 <!--END_SECTION:waka-->
