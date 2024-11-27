@@ -6,15 +6,15 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/11/2024 20:25:01 UTC
+ Last Updated on 27/11/2024 20:24:59 UTC
 <!--END_SECTION:waka-->
