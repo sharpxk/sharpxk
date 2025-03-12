@@ -6,17 +6,15 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               13 mins             ████████████████████░░░░░   79.00 % 
-JSON                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Vue.js                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/03/2025 20:24:48 UTC
+ Last Updated on 12/03/2025 20:24:51 UTC
 <!--END_SECTION:waka-->
