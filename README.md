@@ -6,15 +6,15 @@
 
 ```text
 💬 Programming Languages: 
-C                        23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/06/2025 20:22:18 UTC
+ Last Updated on 06/06/2025 20:27:32 UTC
 <!--END_SECTION:waka-->
