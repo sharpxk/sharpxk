@@ -6,17 +6,15 @@
 
 ```text
 💬 Programming Languages: 
-Singularity              21 mins             ████████████████████████░   95.08 % 
-OpenEdge ABL             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/06/2025 20:26:58 UTC
+ Last Updated on 18/06/2025 20:28:38 UTC
 <!--END_SECTION:waka-->
