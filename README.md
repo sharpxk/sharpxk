@@ -6,16 +6,15 @@
 
 ```text
 💬 Programming Languages: 
-Java                     3 mins              ███████████████░░░░░░░░░░   60.53 % 
-SQL                      2 mins              ██████████░░░░░░░░░░░░░░░   39.47 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/07/2025 20:26:15 UTC
+ Last Updated on 13/07/2025 20:26:04 UTC
 <!--END_SECTION:waka-->
