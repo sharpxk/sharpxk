@@ -6,15 +6,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Ren'Py                   9 mins              ██████████████████░░░░░░░   72.05 % 
+Python                   3 mins              ███████░░░░░░░░░░░░░░░░░░   27.95 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/02/2026 20:38:28 UTC
+ Last Updated on 17/02/2026 20:45:40 UTC
 <!--END_SECTION:waka-->
