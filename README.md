@@ -6,17 +6,16 @@
 
 ```text
 💬 Programming Languages: 
-Ren'Py                   18 mins             ████████████████████████░   97.48 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Ren'Py                   16 mins             █████████████████████████   99.09 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+VS Code                  16 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/03/2026 20:40:43 UTC
+ Last Updated on 30/03/2026 20:53:56 UTC
 <!--END_SECTION:waka-->
