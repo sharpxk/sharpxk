@@ -6,15 +6,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TOML                     54 mins             ███████████████░░░░░░░░░░   59.74 % 
+Bash                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+JSON                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+INI                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 30 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/04/2026 20:53:26 UTC
+ Last Updated on 02/04/2026 20:41:28 UTC
 <!--END_SECTION:waka-->
