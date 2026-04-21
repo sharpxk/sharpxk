@@ -6,15 +6,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     1 hr 52 mins        ██████████████████████░░░   86.51 % 
+SSH Config               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Unknown Editor           1 hr 53 mins        ██████████████████████░░░   87.17 % 
+VS Code                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 53 mins        ██████████████████████░░░   87.17 % 
+Windows                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 ```
 
 
- Last Updated on 20/04/2026 20:56:00 UTC
+ Last Updated on 21/04/2026 20:59:14 UTC
 <!--END_SECTION:waka-->
