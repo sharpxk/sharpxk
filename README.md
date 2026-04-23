@@ -1,26 +1,26 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JSON                     33 mins             █████████████░░░░░░░░░░░░   53.88 % 
-SSH Config               22 mins             █████████░░░░░░░░░░░░░░░░   36.86 % 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+SSH Config               22 mins             ████████████████░░░░░░░░░   64.82 % 
+JSON                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Unknown Editor           35 mins             ██████████████░░░░░░░░░░░   56.68 % 
-VS Code                  26 mins             ███████████░░░░░░░░░░░░░░   43.32 % 
+VS Code                  26 mins             ███████████████████░░░░░░   76.19 % 
+Unknown Editor           8 mins              ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
 
 💻 Operating System: 
-Linux                    39 mins             ████████████████░░░░░░░░░   63.14 % 
-Windows                  22 mins             █████████░░░░░░░░░░░░░░░░   36.86 % 
+Windows                  22 mins             ████████████████░░░░░░░░░   64.82 % 
+Linux                    12 mins             █████████░░░░░░░░░░░░░░░░   35.18 % 
 ```
 
 
- Last Updated on 22/04/2026 21:02:27 UTC
+ Last Updated on 23/04/2026 20:58:39 UTC
 <!--END_SECTION:waka-->
