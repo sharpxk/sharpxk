@@ -6,21 +6,15 @@
 
 ```text
 💬 Programming Languages: 
-SSH Config               6 mins              █████████████░░░░░░░░░░░░   51.64 % 
-Bash                     3 mins              ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-Other                    1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████░░░░   84.72 % 
-Unknown Editor           1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████░░░░░░░░░░░░   51.64 % 
-Linux                    5 mins              ████████████░░░░░░░░░░░░░   48.36 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 28/04/2026 21:11:44 UTC
+ Last Updated on 29/04/2026 21:12:04 UTC
 <!--END_SECTION:waka-->
