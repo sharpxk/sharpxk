@@ -1,28 +1,43 @@
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-767%20hrs%206%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs%2052%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               1 hr 7 mins         ██████████░░░░░░░░░░░░░░░   39.54 % 
+Other                    56 mins             ████████░░░░░░░░░░░░░░░░░   33.16 % 
+TypeScript               29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 48 mins (98.43%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 74,074,761 Input Tokens, 580,615 Output Tokens
+
+💵 $230.93 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 30 AI Prompts
+
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 8,856 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 21:17:34 UTC
+ Last Updated on 07/08/2026 00:53:41 UTC
 <!--END_SECTION:waka-->
