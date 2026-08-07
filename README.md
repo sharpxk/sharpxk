@@ -1,5 +1,9 @@
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2040%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -39,5 +43,5 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 07/08/2026 00:53:41 UTC
+ Last Updated on 07/08/2026 20:48:25 UTC
 <!--END_SECTION:waka-->
