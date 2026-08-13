@@ -8,42 +8,39 @@
 
 ```text
 💬 Programming Languages: 
-Git Config               1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Other                    57 mins             ███████░░░░░░░░░░░░░░░░░░   26.35 % 
-Markdown                 42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-TypeScript               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Markdown                 42 mins             █████████████████░░░░░░░░   66.34 % 
+Other                    21 mins             ████████░░░░░░░░░░░░░░░░░   33.66 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  49 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 27 mins (94.15%)
+⏱ AI Coding Time: 39 mins (79.35%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 74,139,108 Input Tokens, 581,389 Output Tokens
+🔤 64,347 Input Tokens, 774 Output Tokens
 
-💵 $231.03 Estimated AI Cost This Week
+💵 $110.93 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 37 AI Prompts
+🧠 5 AI Sessions, 7 AI Prompts
 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 10,480 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📚 Verbose Prompter — average 17,440 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/08/2026 20:52:20 UTC
+ Last Updated on 13/08/2026 20:49:51 UTC
 <!--END_SECTION:waka-->
